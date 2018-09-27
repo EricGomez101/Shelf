@@ -1,0 +1,40 @@
+.Container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: url('./assets/asphalt-dark.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+.Container__Header {
+  border-radius: 0.5rem;
+  width: 100%;
+  max-width: 40rem;
+  padding: 2rem;
+  background: #333333AA;
+}
+.Container__HeaderText {
+  font-size: 6rem;
+  text-align: center;
+  color: #FF002D;
+}
+.Container__SubHeaderText {
+  color: white;
+  text-align: center;
+}
+.Container__Link {
+  color: #00FFE0;
+  text-decoration: none;
+  font-size: 1.6rem;
+  margin-top: 1rem;
+  border-bottom: 2px solid  #00FFE0;
+}
+.Container__Link:hover {
+  font-size: 2rem;
+  padding: 0.4rem;
+  border-bottom: 4px solid #00FFE0;
+}
