@@ -1,0 +1,15 @@
+/home/eric/Documents/work/Shelf/target/debug/deps/libcookie-42dc622185c4a9d8.rlib: /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/lib.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/builder.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/parse.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/jar.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/delta.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/draft.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/mod.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/macros.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/private.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/signed.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/key.rs
+
+/home/eric/Documents/work/Shelf/target/debug/deps/cookie-42dc622185c4a9d8.d: /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/lib.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/builder.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/parse.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/jar.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/delta.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/draft.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/mod.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/macros.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/private.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/signed.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/key.rs
+
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/lib.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/builder.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/parse.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/jar.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/delta.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/draft.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/mod.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/macros.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/private.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/signed.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/key.rs:

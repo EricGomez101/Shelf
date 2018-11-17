@@ -1,0 +1,221 @@
+:root {
+    font-size: 62.5%;
+}
+*{
+    box-sizing: border-box;
+}
+h1 {
+    font-size: 5rem;
+}
+h2 {
+    font-size: 4rem;
+}
+h3 {
+    font-size: 3rem;
+}
+p, div, span {
+    font-size: 1.6rem;
+}
+body {
+    background: #F3F8FB;
+    position: relative;
+}
+a {
+    text-decoration: none;
+    color: #407BB8;
+}
+/* main content container */
+.Container {
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+}
+.Container__Nav {
+    margin-right: 1rem;
+}
+.Container__Content {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+/* end main content container */
+
+/* nav */
+nav {
+    background: #303641;
+    width: 60px;
+    height: 100vh;
+    padding-top: 9rem;
+    position: sticky;
+    top: 0;
+}
+nav::after {
+    content: ">";
+    font-size: 1.4rem;
+    position: absolute;
+    left: 60px;
+    top: 20px;
+    color: white;
+    width: 20px;
+    height: 60px;
+    background: #303641;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.Nav__Button {
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    width: 20px;
+    height: 60px;
+    z-index: 3;
+    cursor: pointer;
+}
+.activeButton {
+    left: 300px;
+}
+.NavContainer {
+    color: white;
+}
+.NavContainer__Header {
+    height: 8rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.NavLinkContainer {
+    width: 100%;
+    padding: 1rem 1rem 1rem 3rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 1rem 0;
+    pointer-events: none;
+    color: white;
+}
+.NavLink {
+    display: block;
+}
+.active {
+    width: 300px;
+    padding: 2rem 1rem;
+}
+.active::after {
+    content: "<";
+    left: 300px;
+}
+.NavIconsContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.IconContainer {
+    margin-bottom: 1rem;
+    position: relative;
+}
+.IconContainer:hover::after {
+    content: "";
+    color: white;
+    position: absolute;
+    left: 55px;
+    top: 5px;
+    background: black;
+    padding: 1rem;
+    border-radius: 3px;
+}
+/* end nav */
+
+/* content container */
+.InnerContainer {
+    max-width: 120rem;
+    width: 100%;
+    margin: 0 auto;
+}
+.HeaderContainer {
+    padding: 2rem 1rem 1rem;
+    background: white;
+}
+.HeaderContainer__InnerContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    max-width: 120rem;
+    margin: 0 auto;
+}
+.HeaderContainer__BreadCrumb {
+    margin-left: 2rem;
+}
+.InnerContainer__Section {
+    background: white;
+    margin: 4rem 3rem;
+    padding: 2rem;
+    border-radius: 5px;
+}
+.Section__Header {
+    margin-bottom: 2rem;
+}
+.Section__Sale {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background: #F5F8F9;
+    height: 5rem;
+    align-items: center;
+    margin-bottom: 1rem;
+    color: gray;
+    border-radius: 3px;
+}
+.Section__Sale p {
+    width: 16%;
+    text-align: center;
+    overflow: hidden;
+    word-wrap: none;
+}
+.Section__Sale:hover {
+    border: 1px solid lightgray;
+    color: black;
+    box-shadow: 3px 4px 3px 2px #ccc;
+}
+.Section__TableHeader {
+    color: black;
+    margin-bottom: 3rem;
+}
+/* end of content container */
+/* footer */
+footer {
+    background: white;
+    display: flex;
+    flex-direction: row;
+    min-height: 6rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: auto;
+}
+/* end of footer */
+/* utilites */
+.hidden {
+    display: none;
+}
+.LightGray {
+    color: gray;
+    font-weight: lighter;
+}
+
+/* tool tips for the icons on the nav */
+.dashToolTip:hover::after {
+    content: "Dashboard";
+}
+.invToolTip:hover::after {
+    content: "Inventory";
+}
+.pieToolTip:hover::after {
+    content: "Orders";
+}
+.usersToolTip:hover::after {
+    content: "Users";
+}

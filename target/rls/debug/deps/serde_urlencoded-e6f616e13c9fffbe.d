@@ -1,0 +1,11 @@
+/home/eric/Documents/work/Shelf/target/rls/debug/deps/serde_urlencoded-e6f616e13c9fffbe.rmeta: /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/lib.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/de.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/mod.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/key.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/pair.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/part.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/value.rs
+
+/home/eric/Documents/work/Shelf/target/rls/debug/deps/serde_urlencoded-e6f616e13c9fffbe.d: /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/lib.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/de.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/mod.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/key.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/pair.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/part.rs /home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/value.rs
+
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/lib.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/de.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/mod.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/key.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/pair.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/part.rs:
+/home/eric/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.3/src/ser/value.rs:
